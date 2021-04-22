@@ -1,0 +1,28 @@
+body {
+    color: aquamarine;
+    width: 90%;
+    margin: auto;
+}
+
+img.banner {
+    width: auto;
+    height: 520px;
+}
+#logo {
+    color: gray;
+    text-decoration: none;
+}
+nav {
+    background-color: black;
+}
+.menu {
+    list-style-type: none;
+    height: 60px;
+}
+.menu > li > a {
+    text-decoration: none;
+}
+a:hover {
+    color:orangered;
+    text-transform: uppercase;
+}
